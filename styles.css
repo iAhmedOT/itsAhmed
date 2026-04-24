@@ -670,13 +670,19 @@ body[data-theme="dark"] .filter-chip.is-active {
     padding: 12px 14px;
     border-radius: 24px;
     flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .brand {
+    width: 100%;
+    text-align: center;
   }
 
   .nav-links {
     order: 3;
     width: 100%;
-    justify-content: space-between;
-    gap: 10px;
+    justify-content: center;
+    gap: 16px;
     font-size: 0.95rem;
   }
 
@@ -687,10 +693,46 @@ body[data-theme="dark"] .filter-chip.is-active {
     border-radius: 28px;
   }
 
+  .hero,
+  .hero-copy,
+  .hero-visual,
+  .section-card,
+  .contact-card,
+  .section-heading,
+  .timeline-item,
+  .timeline-item__meta,
+  .timeline-item__body,
+  .project-card,
+  .contact-links,
+  .stat-item {
+    text-align: center;
+  }
+
+  .hero-actions,
+  .pill-list,
+  .project-meta,
+  .contact-actions,
+  .timeline-filters {
+    justify-content: center;
+  }
+
+  .contact-links {
+    justify-items: center;
+  }
+
+  .timeline-item__body ul {
+    padding-left: 0;
+    list-style-position: inside;
+  }
+
   .quick-facts,
   .stats-strip,
   .projects-grid {
     grid-template-columns: 1fr;
+  }
+
+  .quick-facts li {
+    text-align: center;
   }
 
   .photo-badge {
