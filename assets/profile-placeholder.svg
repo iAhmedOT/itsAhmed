@@ -1,0 +1,7 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#0B1527"/>
+  <circle cx="400" cy="315" r="155" fill="#16304F"/>
+  <path d="M160 830C160 687.511 275.511 572 418 572H382C524.489 572 640 687.511 640 830V850H160V830Z" fill="#16304F"/>
+  <rect x="82" y="84" width="636" height="832" rx="34" stroke="#38BDF8" stroke-opacity="0.36" stroke-width="6" stroke-dasharray="18 18"/>
+  <text x="400" y="920" text-anchor="middle" fill="#CDEEFF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="600">Drop Ahmed’s photo here</text>
+</svg>
