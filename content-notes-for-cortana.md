@@ -242,3 +242,9 @@ The best result will come from copy that makes Ahmed feel:
 - memorable
 
 without sounding stiff or generic.
+
+---
+
+## Follow-up note for Cortana
+
+The contact area is moving toward a cleaner visual treatment with compact labels like **Email**, **GitHub**, and **LinkedIn** instead of showing the full raw links. If any future copy touches that section, keep the wording short, polished, and label-friendly.
