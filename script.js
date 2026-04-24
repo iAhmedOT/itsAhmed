@@ -12,6 +12,8 @@ const applyTheme = (theme) => {
 const savedTheme = localStorage.getItem(storageKey);
 if (savedTheme === 'light' || savedTheme === 'dark') {
   applyTheme(savedTheme);
+} else {
+  applyTheme('light');
 }
 
 themeToggle?.addEventListener('click', () => {
