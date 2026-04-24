@@ -1,4 +1,4 @@
-# itsAhmed
+# iAhmed
 
 Interactive one-page personal site for Ahmed AlOtaibi.
 
@@ -11,7 +11,7 @@ Interactive one-page personal site for Ahmed AlOtaibi.
 ## Local preview
 
 ```bash
-cd itsAhmed
+cd iAhmed
 python3 -m http.server 8000
 ```
 

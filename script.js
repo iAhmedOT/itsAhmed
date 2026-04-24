@@ -1,6 +1,6 @@
 const themeToggle = document.getElementById('theme-toggle');
 const themeIcon = themeToggle?.querySelector('.theme-toggle__icon');
-const storageKey = 'itsAhmed-theme';
+const storageKey = 'iAhmed-theme';
 
 const applyTheme = (theme) => {
   document.body.dataset.theme = theme;
